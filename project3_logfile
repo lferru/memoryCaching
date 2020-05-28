@@ -1,0 +1,21 @@
+Virtual Address: 0x1 
+	Physical Address: 0x78401 from Page Fault Handler
+	Data: 0xae from memory
+Virtual Address: 0x4268 
+	Physical Address: 0x96e68 from Page Fault Handler
+	Data: 0x2c from memory
+Virtual Address: 0x3e8 
+	Physical Address: 0x1e5e8 from Page Fault Handler
+	Data: 0x1 from memory
+Virtual Address: 0x4268 
+	Physical Address: 0x96e68 from Page Table
+	Data: 0x2c from cache
+Virtual Address: 0x3e8 
+	Physical Address: 0x1e5e8 from Page Table
+	Data: 0x1 from cache
+Virtual Address: 0x4268 
+	Physical Address: 0x96e68 from Page Table
+	Data: 0x2c from cache
+Virtual Address: 0x4268 
+	Physical Address: 0x96e68 from TLB
+	Data: 0x2c from cache
